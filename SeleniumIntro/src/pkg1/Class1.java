@@ -8,6 +8,8 @@ public class Class1
 	String[] s1=s.split(",");
 	int L=s1.length; // total 4
 	
+	System.out.println("changes done");
+	
 	for(int i=0;i<L;i++)
 	{
 		System.out.println(s1[i]);
