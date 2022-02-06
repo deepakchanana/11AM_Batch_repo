@@ -8,7 +8,7 @@ public class Class1
 	String[] s1=s.split(",");
 	int L=s1.length; // total 4
 	
-	System.out.println("changes done22222222222222222222222");
+	System.out.println("changes done");
 	
 	for(int i=0;i<L;i++)
 	{
